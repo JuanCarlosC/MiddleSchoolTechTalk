@@ -6,13 +6,17 @@
 
 # You can edit websites like youtube
 
+1. Open chrome
+2. Go to www.youtube.com
+3. Right click and click `inspect` at the bottom of the list
+
 ```html
 <div style="padding: 2rem; text-align: center;">
   <h1 style="font-size: 4rem;">Mr.Silva's class is super awesome and stuff </h1>
 	<img src="http://resources.chavez.business/miotees/imgs/other/rene-class.jpg">
 </div>
+```
 
 Update the picture to this:
 
 https://imgflip.com/s/meme/Surprised-Pikachu.jpg
-```
