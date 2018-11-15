@@ -25,8 +25,8 @@ https://imgflip.com/s/meme/Surprised-Pikachu.jpg
 
 # Make music
 
-Listen to a sample:
-1. http://sampulator.com/thatmusicalkidd/hol-up
+## Listen to a sample:
+http://sampulator.com/thatmusicalkidd/hol-up
 
-Make your own:
-2. http://sampulator.com/
+## Make your own:
+http://sampulator.com/
