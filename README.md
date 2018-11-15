@@ -2,7 +2,9 @@
 
 # How Snapchat Works
 
-1. 
+1. Track faces: https://trackingjs.com/examples/face_camera.html
+2. Track faces like snapchat: https://tastenkunst.github.io/brfv4_javascript_examples/
+3. Snapchat desktop
 
 # You can edit websites like youtube
 
@@ -20,3 +22,11 @@
 Update the picture to this:
 
 https://imgflip.com/s/meme/Surprised-Pikachu.jpg
+
+# Make music
+
+Listen to a sample:
+1. http://sampulator.com/thatmusicalkidd/hol-up
+
+Make your own:
+2. http://sampulator.com/
