@@ -24,6 +24,10 @@ Update the picture to this:
 
 https://imgflip.com/s/meme/Surprised-Pikachu.jpg
 
+# Mixed Reality
+
+https://www.youtube.com/watch?v=hOASaXLkxug
+
 # Make music
 
 ## Listen to a sample:
