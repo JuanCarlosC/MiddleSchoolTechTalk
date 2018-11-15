@@ -11,6 +11,7 @@
 1. Open chrome
 2. Go to www.youtube.com
 3. Right click and click `inspect` at the bottom of the list
+4. Copy and paste the code below and paste it anywhere inside the youtube code
 
 ```html
 <div style="padding: 2rem; text-align: center;">
