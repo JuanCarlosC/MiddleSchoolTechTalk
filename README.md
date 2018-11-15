@@ -1,11 +1,5 @@
 # Mr.Silva's Technology Links
 
-# How Snapchat Works
-
-1. Track faces: https://trackingjs.com/examples/face_camera.html
-2. Track faces like snapchat: https://tastenkunst.github.io/brfv4_javascript_examples/
-3. Snapchat desktop
-
 # You can edit websites like youtube
 
 1. Open chrome
@@ -24,9 +18,18 @@ Update the picture to this:
 
 https://imgflip.com/s/meme/Surprised-Pikachu.jpg
 
+# Virtual Reality
+https://www.youtube.com/watch?v=fnCmUWqKo6g
+
 # Mixed Reality
 
 https://www.youtube.com/watch?v=hOASaXLkxug
+
+# How Snapchat Works
+
+1. Track faces: https://trackingjs.com/examples/face_camera.html
+2. Track faces like snapchat: https://tastenkunst.github.io/brfv4_javascript_examples/
+3. Snapchat desktop
 
 # Make music
 
